@@ -33,4 +33,4 @@ Harmony Patching is a very important part of modding. More info here: https://me
 
 ## Modifiying....
 
-Towers - https://greenphx9.github.io/BTD-6-Modding-Tutorial/Modifying-Towers/
+<a href="/Modifiying-Towers/">Towers</a>
