@@ -27,6 +27,10 @@ After that, add this code:
 Then compile your code, add it to the Mods folder, and it should in the console, it should say: "Mod Name Loaded". If it does, congratulations, you made your first mod! If you did it correctly, you console should also look similar to this:
 ![Console](https://github.com/Greenphx9/BTD-6-Modding-Tutorial/raw/gh-pages/ConsoleExample1.png)
 
+## Harmony Patching
+
+Harmony Patching is a very important part of modding. More info here: https://melonwiki.xyz/#/modders/patching
+
 ## Modifiying Towers
 
 This part of the tutorial will teach you how to make basic tower modifications, like changing range, fire rate, etc. First of all, if your extending your main class with BloonsTD6Mod, you can simply type public override On(ModelToChange)Changed. The most important models are: TowerModel, AttackModel, WeaponModel and ProjectileModel. TowerModel controls tower name, the range you can see on the tower, tower upgrades, and much more. AttackModel contains the actual range, WeaponModels, Targetting, and others. Not as useful as TowerModel and WeaponModel. WeaponModel contains fire rate, emission (2 projectiles at once, 3, instant damage, etc), projectile throw position, and others. ProjectileModel is projectile display, pierce, radius, scale and other things.
