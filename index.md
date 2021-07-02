@@ -55,7 +55,7 @@ If you look closely, you will notice that you arent editing TowerModel, AttackMo
 - Projectile Size
 - Projectile DamageModel (can be used to change projectile damage, do projectile.projectileModel.GetDamageModel())
 
-For each of these models, you can do GetBehavior<T>(), where T is the model. Common behaviors are Damage Model and Display Model.
+For each of these models, you can do ```GetBehavior<T>()```, where T is the model. Common behaviors are Damage Model and Display Model.
         
 # Code Examples
         
