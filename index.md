@@ -25,4 +25,4 @@ After that, add this code:
         }
 ```
 Then compile your code, add it to the Mods folder, and it should in the console, it should say: "Mod Name Loaded". If it does, congratulations, you made your first mod! If you did it correctly, you console should also look similar to this:
-[Console](https://github.com/Greenphx9/BTD-6-Modding-Tutorial/raw/gh-pages/ConsoleExample1.png)
+![Console](https://github.com/Greenphx9/BTD-6-Modding-Tutorial/raw/gh-pages/ConsoleExample1.png)
