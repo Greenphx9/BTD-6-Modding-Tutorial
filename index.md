@@ -31,8 +31,12 @@ Then compile your code, add it to the Mods folder, and it should in the console,
 
 Harmony Patching is a very important part of modding. More info here: https://melonwiki.xyz/#/modders/patching
 
-## Modifying....
+## Modifying...
 
 <a href="https://greenphx9.github.io/BTD-6-Modding-Tutorial/Modifying-Towers/">Towers</a>
 
 <a href="https://greenphx9.github.io/BTD-6-Modding-Tutorial/Modifying-InGameStuff/">In Game</a>
+
+## Creating...
+
+<a href="https://greenphx9.github.io/BTD-6-Modding-Tutorial/Creating-A-Custom-Tower/">A Custom Tower</a>
