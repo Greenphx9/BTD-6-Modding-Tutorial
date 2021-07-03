@@ -1,4 +1,4 @@
-## Modifying In-Game stuff
+### Modifying In-Game stuff
 
 In this section of the tutorial, you will learn how to modify what happens in-game. There are a bunch of mod helper and Melonloader hooks. The most useful are: OnUpdate(), OnKeyDown(),
 OnCashAdded().
