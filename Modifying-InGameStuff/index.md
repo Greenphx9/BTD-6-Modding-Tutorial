@@ -1,6 +1,6 @@
-## Modifiying In-Game stuff
+## Modifying In-Game stuff
 
-In this section of the tutorial, you will learn how to modifiy what happens in-game. There are a bunch of mod helper and Melonloader hooks. The most useful are: OnUpdate(), OnKeyDown(),
+In this section of the tutorial, you will learn how to modify what happens in-game. There are a bunch of mod helper and Melonloader hooks. The most useful are: OnUpdate(), OnKeyDown(),
 OnCashAdded().
 
 You can use these hooks to change InGame settings, like adding cash, adding lives, subtracting cash, subtracting lives, popping all bloons, etc.
