@@ -40,3 +40,7 @@ Harmony Patching is a very important part of modding. More info here: https://me
 ## Creating...
 
 <a href="https://greenphx9.github.io/BTD-6-Modding-Tutorial/Creating-A-Custom-Tower/">A Custom Tower</a>
+
+## Other
+
+<a href="https://greenphx9.github.io/BTD-6-Modding-Tutorial/Adding-Custom-Images/">Adding Custom Images</a>
